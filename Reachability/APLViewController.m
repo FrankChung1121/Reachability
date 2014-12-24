@@ -76,6 +76,8 @@
 
 - (void)viewDidLoad
 {
+    [super viewDidLoad];
+    
     self.summaryLabel.hidden = YES;
 
     /*
